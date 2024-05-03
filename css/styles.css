@@ -16,7 +16,7 @@ header{
 }
 
 body{
-    font-size: 23px;
+    font-size: 18.5px;
     width: auto;
 }
 
@@ -48,8 +48,8 @@ footer{
 }
 
 .report .row img{
-    width: 40rem; 
-    height: 40rem; 
+    width: 37rem; 
+    height: 38rem; 
     margin-right: 20px;
     border-radius: 1rem;
 }
